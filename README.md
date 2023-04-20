@@ -13,7 +13,10 @@
 ### 4. [Exploring eBay car adverts](https://github.com/srapsons/data-science/blob/2d53ec8fb8636e5070633dc163ffdecc70da3ea7/Exploring%20Car%20Ads%20on%20eBay.ipynb)
 - **Skills demonstrated:** Series, Dataframes, Numpy, Pandas
 - **Source:** dataquest.io, guided 
-### 4. [Real estate valuation models](https://github.com/srapsons/data-science/blob/429ca6f9605f8c685b000d3153c14548db735879/Real%20estate%20valuation%20models.ipynb)
+### 5. [Traffic volume visualisation](https://github.com/srapsons/data-science/blob/0de752734f03f3216ccfa8d39813fca87299352e/I-94%20traffic%20visualisation.ipynb)
+- **Skills demonstrated:** Line charts, Bar charts, Histograms, Matplotlib
+- **Source:** dataquest.io, guided
+### 6. [Real estate valuation models](https://github.com/srapsons/data-science/blob/429ca6f9605f8c685b000d3153c14548db735879/Real%20estate%20valuation%20models.ipynb)
 - **Skills demonstrated:** Linear regression
 - **Source:** Microsoft Learn, unguided
 
